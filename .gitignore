@@ -1,0 +1,5 @@
+#Ignorer le cache python
+__pycache__/
+
+# Ignorer les fichiers de configuration de vscode et de github
+.vscode/*
